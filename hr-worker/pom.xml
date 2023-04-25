@@ -11,8 +11,8 @@
 	<groupId>com.devsuperior</groupId>
 	<artifactId>hr-payroll</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hr-payroll</name>
-	<description>Payroll Microservice</description>
+	<name>hr-work</name>
+	<description>hr-work Microservice</description>
 
 	<properties>
 		<java.version>11</java.version>
